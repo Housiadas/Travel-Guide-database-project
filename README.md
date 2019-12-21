@@ -6,3 +6,10 @@ Designing a database for a travel guide agency, specifically for the city of Rom
 
 ### Relational Model (RM).
  ![alt text](https://raw.githubusercontent.com/Housiadas/Travel-Guide-database-project/master/images/relation_diagram.jpg)
+
+___
+### License
+
+Copyright © 2017 Christos Chousiadas
+
+This repository is under the MIT License.
